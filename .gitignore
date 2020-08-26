@@ -1,0 +1,17 @@
+# Visual Studio Code
+.vscode
+
+# Virtual Environment
+venv
+
+# Data files
+mbox.txt
+mbox-short.txt
+words.txt
+romeo.txt
+regex_sum_42.txt
+regex_sum_917309.txt
+sample.txt
+Library.xml
+roster_data.json
+where.data

@@ -1,1 +1,3 @@
-# py4e
+# Python-for-Everybody
+
+Python for Everybody Specialization Assignments
